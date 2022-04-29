@@ -1,0 +1,53 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+/*medida celular bootstrap*/
+@media only screen and (min-width: 320px){
+	body{background-color: green;}
+	.experiencia {
+		width: 100%;
+	}
+	.trabajos {
+		width: 100%;
+	}
+}
+
+
+/*medida tablet bootstrap*/
+@media only screen and (min-width: 576px) {
+	body{background-color: orange;}
+	.experiencia {
+		width: 50%:
+	}
+	.trabajos {
+		width: 100%;
+	}
+
+}
+
+@media only screen and (min-width: 859px) {
+	body{background-color: maroon;}
+	.experiencia {
+		width: 50%;
+	}
+	.trabajos {
+		width: 25%;
+	}
+
+	
+}
+
+	
+	
+
+
