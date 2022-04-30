@@ -71,12 +71,6 @@ img {
 	height: 10vh;
 }
 
-
-@media only screen and (min-width: 320px) {
-	body{background-color: green;}
-
-}
-
 /*medida tablet bootstrap*/
 @media only screen and (min-width: 768px) {
 	body{background-color: orange;}
@@ -98,7 +92,3 @@ img {
 }
 
 	
-	
-	
-
-
